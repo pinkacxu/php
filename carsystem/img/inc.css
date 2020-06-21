@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+body{margin:0px 0px 0px 0px;font-size:13px;background-repeat: repeat-x}
+table{border-collapse:collapse;     border:1px #999 solid;}
+table td{border-collapse:collapse;  border:1px #999 solid;}
+.noborder {border:0px;}
+.noborder td{border:0px;}
+input{margin-top:5px;}
+.myform{ border:solid 5px #ccc; padding:10px;width:400px; background-color:#F3F3F3}
+ 
+.ssmenu A:visited {TEXT-DECORATION:none;COLOR: #000;} 
+.ssmenu A:link    {text-decoration:none;COLOR:#000;} 
+.ssmenu A:hover   {TEXT-DECORATION: none;COLOR:#000;FONT-WEIGHT: normal;FONT-STYLE: normal;} 
+.status{ font-size:16px; font-weight:bold; color:#666;}
+.submit{ padding:5px 10px 5px 10px;}
+.myspan{display:inline-block}
+.px60{width:60px}
